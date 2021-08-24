@@ -1,0 +1,17 @@
+{
+    "repository_name": "ios-superplayer",
+    "description": "An iOS Video Player that is using composable architecture",
+    "directorate": "iOS",
+    "namespace": "tokopedia",
+    "security_owner": "andrey.manik@tokopedia.com",
+    "app": [
+      {
+        "name": "ios-superplayer-service",
+        "description": "A service to check superplayer repo",
+        "owner": "andrey.manik@tokopedia.com",
+        "slack_channel": "alert-superman",
+        "db": []
+      }
+    ],
+    "last_update":"24/08/2020"
+}
