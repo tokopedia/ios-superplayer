@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "combine-schedulers",
+        "repositoryURL": "https://github.com/pointfreeco/combine-schedulers",
+        "state": {
+          "branch": null,
+          "revision": "6dcc7c034d28fe7ac652453faeae07656f723909",
+          "version": "0.5.1"
+        }
+      },
+      {
+        "package": "swift-case-paths",
+        "repositoryURL": "https://github.com/pointfreeco/swift-case-paths",
+        "state": {
+          "branch": null,
+          "revision": "d226d167bd4a68b51e352af5655c92bce8ee0463",
+          "version": "0.7.0"
+        }
+      },
+      {
+        "package": "swift-composable-architecture",
+        "repositoryURL": "https://github.com/pointfreeco/swift-composable-architecture",
+        "state": {
+          "branch": null,
+          "revision": "e1c0a52897eb361d09f761b2bdb25f212926fb1c",
+          "version": "0.19.0"
+        }
+      },
+      {
+        "package": "xctest-dynamic-overlay",
+        "repositoryURL": "https://github.com/pointfreeco/xctest-dynamic-overlay",
+        "state": {
+          "branch": null,
+          "revision": "50a70a9d3583fe228ce672e8923010c8df2deddd",
+          "version": "0.2.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
