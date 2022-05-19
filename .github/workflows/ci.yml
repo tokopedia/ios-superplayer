@@ -9,12 +9,14 @@ on:
       - '*'
 
 jobs:
-  macOS:
+  build:
+    name: Build
+    runs-on: macos-latest
     strategy:
       matrix:
         xcode:
+          - '13.0'
           - '13.2'
-    runs-on: macos-11
     steps:
       - uses: actions/checkout@v2
       - name: Select Xcode ${{ matrix.xcode }}
