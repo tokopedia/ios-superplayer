@@ -14,6 +14,7 @@ SuperPlayer is a library to wrap AVPlayer with Composable Architecture. It can b
 * [Credits and thanks](#credits-and-thanks)
 
 
+
 ## Learn More
 
 AVPlayer a controller object used to manage the playback and timing of a media asset. You can use an AVPlayer to play local and remote file-based media, such as QuickTime movies and MP3 audio files, as well as audiovisual media served using HTTP Live Streaming.
