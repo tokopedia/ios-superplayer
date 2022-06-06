@@ -202,4 +202,4 @@ Adityo Rancaka, Alvin Matthew Pratama, and many of iOS Superman, and iOS Tokoped
 
 ## License
 
-This library is released under the MIT license. See [LICENSE](LICENSE) for details.
+This library is released under the Apache license. See [LICENSE](LICENSE) for details.
